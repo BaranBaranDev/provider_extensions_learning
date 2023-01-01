@@ -39,6 +39,3 @@ class HomePageView extends StatelessWidget {
 enum ismi.enum içinde ki değerin ismi.extensions ile gelen widget
 ImageNameEnum.doga.imagePath
 */
-
-
-// selam
